@@ -5,7 +5,7 @@
 # hardware (for RS485 port): 
 # https://github.com/klatremis/esphome-for-bms/blob/main/wiring.jpg
 #
-# software:
+# software and inspiration:
 # https://github.com/peterczarlarsen-ha/seplos_v3_sniffer
 # https://github.com/peterczarlarsen-ha/HA-seplos-bms
 #
