@@ -34,12 +34,14 @@ make one for each battery, i have three, so i have three helpers
 My hardware list for this project (not a recomendation of specific vendor)
 
 ESP32-S3-DevKit C N16R8
+
 https://www.aliexpress.com/item/1005005051294262.html?spm=a2g0o.order_list.order_list_main.115.1ef81802lj55Vy
 
 <img width="1265" alt="Screenshot 2025-03-07 at 07 37 25" src="https://github.com/user-attachments/assets/6edd2481-0b0b-496b-ab30-405c6a33fd27" />
 
 
 TTL Turn To RS485
+
 https://www.aliexpress.com/item/1005001621746811.html?spm=a2g0o.order_list.order_list_main.235.1ef81802lj55Vy
 
 <img width="1253" alt="Screenshot 2025-03-07 at 07 41 23" src="https://github.com/user-attachments/assets/609ebc44-969c-4a84-b4f3-ed7356e09f24" />
